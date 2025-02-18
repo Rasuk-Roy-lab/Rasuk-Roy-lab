@@ -1,4 +1,4 @@
-![I am Rasuk-Roy](https://github.com/Rasuk-Roy/Rasuk-Roy/blob/main/code-raj.png)
+![I am Rasuk-Roy-lab](https://github.com/Rasuk-Roy-lab/Rasuk-Roy-lab/blob/main/code-raj.png)
 
 <h1 align="center">Hi 👋, I'm RASUK ROY</h1>
 <h3 align="center">Programmer | Web Designer | Speed Learner</h3>
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=Rasuk-Roy&color=red)
+![Profile views](https://komarev.com/ghpvc/?username=Rasuk-Roy-lab&color=red)
 
 Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 
@@ -16,7 +16,7 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 
 - 🌱 I’m currently learning JS, CSS, BOOTSTRAP
 
-- 👨‍💻 All of my projects are available at [https://github.com/Rasuk-Roy](https://github.com/Rasuk-Roy)
+- 👨‍💻 All of my projects are available at [https://github.com/Rasuk-Roy-lab](https://github.com/Rasuk-Roy-lab)
 
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
@@ -29,7 +29,7 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 <p align="center">
 <a href="https://web.facebook.com/profile.php?id=100022214960719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tutul181" height="30" width="40" /></a>
 <a href="https://twitter.com/tutul181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tutul181" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rasuk-roy-3a2604323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Rasuk-Roy-lab-3a2604323/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://instagram.com/tutul_181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tutul_181" height="30" width="40" /></a>
 <a href="https://dribbble.com/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="harun181" height="30" width="40" /></a>
 <a href="https://www.behance.net/harun181" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="harun181" height="30" width="40" /></a>
@@ -60,10 +60,10 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Rasuk-Roy](https://github-readme-stats.vercel.app/api/pin/?username=Rasuk-Roy&repo=Rasuk-Roy&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rasuk-Roy/Rasuk-Roy)
+[![Rasuk-Roy-lab](https://github-readme-stats.vercel.app/api/pin/?username=Rasuk-Roy-lab&repo=Rasuk-Roy-lab&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Rasuk-Roy-lab/Rasuk-Roy-lab)
 
 <p align="left">
-  <a href="https://github.com/Rasuk-Roy?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/Rasuk-Roy-lab?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -73,18 +73,18 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/Rasuk-Roy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasuk-Roy&theme=radical" alt="Rasuk's GitHub Contribution"/>
+  <a href="https://github.com/Rasuk-Roy-lab">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rasuk-Roy-lab&theme=radical" alt="Rasuk's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Rasuk-Roy"><img alt="Rasuk's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rasuk-Roy&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Rasuk-Roy"><img alt="Rasuk's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rasuk-Roy&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Rasuk-Roy-lab"><img alt="Rasuk's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rasuk-Roy-lab&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Rasuk-Roy-lab"><img alt="Rasuk's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rasuk-Roy-lab&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Rasuk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rasuk-Roy&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rasuk's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rasuk-Roy-lab&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
@@ -97,7 +97,7 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 <a href="https://web.facebook.com/profile.php?id=100022214960719" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.linkedin.com/in/rasuk-roy-3a2604323/" target="_blank">
+<a href="https://www.linkedin.com/in/Rasuk-Roy-lab-3a2604323/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.facebook.com/tutul181" target="_blank">
