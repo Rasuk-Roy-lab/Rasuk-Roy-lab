@@ -21,7 +21,7 @@ Skills: TAILWIND / SASS / Java / BOOTSTRAP 5 / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **rasukroy6@gmail.com**
+- 📫 How to reach me **rasukroy25@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
